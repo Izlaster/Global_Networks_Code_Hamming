@@ -1,1 +1,1 @@
-"# Global_Networks_Code_Hamming" 
+# Здесь лабы по Глобальным Сетям
